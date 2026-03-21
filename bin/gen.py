@@ -5,6 +5,7 @@ import json
 import logging
 import os
 import urllib.request
+import urllib.parse
 import datetime
 
 logging.basicConfig(level=logging.INFO)
@@ -88,10 +89,15 @@ def main():
     ]
     
     for issue_date, title, url, labels in items:
-        # Format labels as tags
+        # Format labels as clickable tag links
         tag_str = ''
         if labels:
-            tag_str = ' `' + '` `'.join(labels) + '`'
+            tag_links = []
+            for label in labels:
+                # Link to GitHub label filter
+                label_url = f'https://github.com/{REPO}/labels/{urllib.parse.quote(label)}'
+                tag_links.append(f'[{label}]({label_url})')
+            tag_str = ' ' + ' '.join(tag_links)
         lines.append(f'1. {issue_date}, [{title}]({url}){tag_str}')
     
     # Write index.md
