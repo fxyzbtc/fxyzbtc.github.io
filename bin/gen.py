@@ -68,15 +68,15 @@ def main():
             continue
         
         # Extract date from title
-        date = extract_date_from_title(title)
-        if not date:
+        issue_date = extract_date_from_title(title)
+        if not issue_date:
             # Use created date as fallback
-            date = issue['created_at'][:10]
+            issue_date = issue['created_at'][:10]
         
-        items.append((date, title, url, labels))
+        items.append((issue_date, title, url, labels))
     
-    # Sort by date descending
-    items.sort(key=lambda x: x[0], reverse=True)
+    # Sort by date descending (parse as date for proper sorting)
+    items.sort(key=lambda x: datetime.datetime.strptime(x[0], '%Y-%m-%d'), reverse=True)
     
     # Generate index.md
     updated_time = datetime.datetime.now().strftime('%Y-%m-%d')
@@ -87,12 +87,12 @@ def main():
         ''
     ]
     
-    for date, title, url, labels in items:
+    for issue_date, title, url, labels in items:
         # Format labels as tags
         tag_str = ''
         if labels:
             tag_str = ' `' + '` `'.join(labels) + '`'
-        lines.append(f'1. {date}, [{title}]({url}){tag_str}')
+        lines.append(f'1. {issue_date}, [{title}]({url}){tag_str}')
     
     # Write index.md
     with open('index.md', 'w', encoding='utf-8') as f:
