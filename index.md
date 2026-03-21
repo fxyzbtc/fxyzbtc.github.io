@@ -2,6 +2,7 @@
 
 ## Issues
 
+1. 2026-03-21, [Crypto Strategy in Bear Market: Possibility, Experience, Risk and Gains](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/135)
 1. 2026-03-21, [Cloudflared on OpenWrt Setup Guide](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/134) <sub>[[linux](https://github.com/fxyzbtc/fxyz.github.io/labels/linux), [tech](https://github.com/fxyzbtc/fxyz.github.io/labels/tech)]</sub>
 1. 2026-03-21, [autoresearch和智能体自我演进的使用方向和想法](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/133) <sub>[[deep](https://github.com/fxyzbtc/fxyz.github.io/labels/deep)]</sub>
 1. 2026-03-21, [test](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/132)
