@@ -2,6 +2,7 @@
 
 ## Issues
 
+1. 2026-03-21, [Cloudflared on OpenWrt Setup Guide](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/134)
 1. 2026-03-21, [autoresearch和智能体自我演进的使用方向和想法](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/133) <sub>[[deep](https://github.com/fxyzbtc/fxyz.github.io/labels/deep)]</sub>
 1. 2026-03-21, [test](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/132)
 1. 2026-03-21, [Implement AI-powered issue analysis system with automated comment generation](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/131) <sub>[[economy](https://github.com/fxyzbtc/fxyz.github.io/labels/economy), [tech](https://github.com/fxyzbtc/fxyz.github.io/labels/tech), [ai](https://github.com/fxyzbtc/fxyz.github.io/labels/ai), [culture](https://github.com/fxyzbtc/fxyz.github.io/labels/culture), [society](https://github.com/fxyzbtc/fxyz.github.io/labels/society)]</sub>
