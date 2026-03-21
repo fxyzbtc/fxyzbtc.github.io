@@ -97,7 +97,7 @@ def main():
                 # Link to GitHub label filter
                 label_url = f'https://github.com/{REPO}/labels/{urllib.parse.quote(label)}'
                 tag_links.append(f'[{label}]({label_url})')
-            tag_str = ' ' + ' '.join(tag_links)
+            tag_str = ' [' + ', '.join(tag_links) + ']'
         lines.append(f'1. {issue_date}, [{title}]({url}){tag_str}')
     
     # Write index.md
