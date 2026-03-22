@@ -2,6 +2,7 @@
 
 ## Issues
 
+1. 2026-03-22, [AGI 烟雾迷漫，却又清晰无比 (v1)](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/139) <sub>[[tech](https://github.com/fxyzbtc/fxyz.github.io/labels/tech), [agi](https://github.com/fxyzbtc/fxyz.github.io/labels/agi), [token](https://github.com/fxyzbtc/fxyz.github.io/labels/token), [energy](https://github.com/fxyzbtc/fxyz.github.io/labels/energy)]</sub>
 1. 2026-03-22, [AGI 烟雾迷漫，却又清晰无比](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/138) <sub>[[tech](https://github.com/fxyzbtc/fxyz.github.io/labels/tech), [agi](https://github.com/fxyzbtc/fxyz.github.io/labels/agi), [token](https://github.com/fxyzbtc/fxyz.github.io/labels/token), [energy](https://github.com/fxyzbtc/fxyz.github.io/labels/energy)]</sub>
 1. 2026-03-21, [Nvidia CEO Huang: If You Cannot Spend 5% of Your Income on Tokens, You Are Losing This Era](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/137)
 1. 2026-03-21, [投资机器人行业：黑暗与黎明，马与蒸汽时代的轮回](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/136)
