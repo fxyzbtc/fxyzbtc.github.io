@@ -76,8 +76,8 @@
 1. 2023-12-20, [PySide 将 logger 打印到 Text 组件中](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/9) <sub>[[python](https://github.com/fxyzbtc/fxyz.github.io/labels/python), [tech](https://github.com/fxyzbtc/fxyz.github.io/labels/tech)]</sub>
 1. 2023-12-20, [Pyinstaller 打包 PySide/PyQt 程序运行时提示plguin错误](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/8) <sub>[[python](https://github.com/fxyzbtc/fxyz.github.io/labels/python), [tech](https://github.com/fxyzbtc/fxyz.github.io/labels/tech)]</sub>
 1. 2023-12-20, [SimpleHTTPServer with upload](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/7) <sub>[[python](https://github.com/fxyzbtc/fxyz.github.io/labels/python), [tech](https://github.com/fxyzbtc/fxyz.github.io/labels/tech)]</sub>
-1. 2023-12-20, [合并word中的表格](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/6) <sub>[[python](https://github.com/fxyzbtc/fxyz.github.io/labels/python)]</sub>
-1. 2023-12-17, [备份雪球记录](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/5) <sub>[[python](https://github.com/fxyzbtc/fxyz.github.io/labels/python)]</sub>
+1. 2023-12-20, [合并word中的表格](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/6) <sub>[[python](https://github.com/fxyzbtc/fxyz.github.io/labels/python), [tech](https://github.com/fxyzbtc/fxyz.github.io/labels/tech)]</sub>
+1. 2023-12-17, [备份雪球记录](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/5) <sub>[[python](https://github.com/fxyzbtc/fxyz.github.io/labels/python), [tech](https://github.com/fxyzbtc/fxyz.github.io/labels/tech), [finance](https://github.com/fxyzbtc/fxyz.github.io/labels/finance)]</sub>
 1. 2023-12-17, [Jelly 硬解码设置](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/4) <sub>[[lab](https://github.com/fxyzbtc/fxyz.github.io/labels/lab)]</sub>
 1. 2023-12-13, [最佳格式化windows硬盘](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/3) <sub>[[lab](https://github.com/fxyzbtc/fxyz.github.io/labels/lab)]</sub>
 1. 2023-12-03, [家庭lab的组网最佳?实践路径](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/2) <sub>[[lab](https://github.com/fxyzbtc/fxyz.github.io/labels/lab)]</sub>
