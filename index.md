@@ -61,10 +61,10 @@
 1. 2025-05-03, [Cloudflare tunnel in a public  host](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/26) <sub>[[lab](https://github.com/fxyzbtc/fxyz.github.io/labels/lab), [tech](https://github.com/fxyzbtc/fxyz.github.io/labels/tech)]</sub>
 1. 2025-05-03, [Rewrite and replacement does not in Adguardhome](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/25) <sub>[[lab](https://github.com/fxyzbtc/fxyz.github.io/labels/lab), [tech](https://github.com/fxyzbtc/fxyz.github.io/labels/tech)]</sub>
 1. 2024-05-12, [shifting docker volume and networks](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/24) <sub>[[linux](https://github.com/fxyzbtc/fxyz.github.io/labels/linux), [tech](https://github.com/fxyzbtc/fxyz.github.io/labels/tech)]</sub>
-1. 2024-04-12, [qubes os cannot start installation](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/23)
+1. 2024-04-12, [qubes os cannot start installation](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/23) <sub>[[tech](https://github.com/fxyzbtc/fxyz.github.io/labels/tech), [security](https://github.com/fxyzbtc/fxyz.github.io/labels/security)]</sub>
 1. 2024-03-07, [test](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/20)
-1. 2024-03-03, [AI的演进路径](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/19) <sub>[[emm](https://github.com/fxyzbtc/fxyz.github.io/labels/emm)]</sub>
-1. 2024-03-03, [个人信息的组织方式](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/18) <sub>[[emm](https://github.com/fxyzbtc/fxyz.github.io/labels/emm)]</sub>
+1. 2024-03-03, [AI的演进路径](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/19) <sub>[[emm](https://github.com/fxyzbtc/fxyz.github.io/labels/emm), [tech](https://github.com/fxyzbtc/fxyz.github.io/labels/tech), [ai](https://github.com/fxyzbtc/fxyz.github.io/labels/ai)]</sub>
+1. 2024-03-03, [个人信息的组织方式](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/18) <sub>[[emm](https://github.com/fxyzbtc/fxyz.github.io/labels/emm), [tech](https://github.com/fxyzbtc/fxyz.github.io/labels/tech)]</sub>
 1. 2024-03-01, [多亏restic备份救了老命](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/17) <sub>[[lab](https://github.com/fxyzbtc/fxyz.github.io/labels/lab), [linux](https://github.com/fxyzbtc/fxyz.github.io/labels/linux)]</sub>
 1. 2024-02-19, [The App list](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/16) <sub>[[lab](https://github.com/fxyzbtc/fxyz.github.io/labels/lab), [python](https://github.com/fxyzbtc/fxyz.github.io/labels/python)]</sub>
 1. 2024-02-18, [pydantic v.s. dataclasses](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/15) <sub>[[python](https://github.com/fxyzbtc/fxyz.github.io/labels/python)]</sub>
