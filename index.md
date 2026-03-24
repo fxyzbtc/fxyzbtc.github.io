@@ -57,10 +57,10 @@
 1. 2025-10-15, [mysterious restic snapshots](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/30) <sub>[[lab](https://github.com/fxyzbtc/fxyz.github.io/labels/lab), [linux](https://github.com/fxyzbtc/fxyz.github.io/labels/linux), [tech](https://github.com/fxyzbtc/fxyz.github.io/labels/tech)]</sub>
 1. 2025-06-29, [Fed up with dd and shred](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/29) <sub>[[tech](https://github.com/fxyzbtc/fxyz.github.io/labels/tech)]</sub>
 1. 2025-06-28, [secure traffic enhancement](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/28) <sub>[[tech](https://github.com/fxyzbtc/fxyz.github.io/labels/tech), [security](https://github.com/fxyzbtc/fxyz.github.io/labels/security)]</sub>
-1. 2025-05-25, [reinstall wsl ConfigureGpu/HCS/ERROR_PATH_NOT_FOUND](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/27) <sub>[[lab](https://github.com/fxyzbtc/fxyz.github.io/labels/lab), [linux](https://github.com/fxyzbtc/fxyz.github.io/labels/linux)]</sub>
-1. 2025-05-03, [Cloudflare tunnel in a public  host](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/26) <sub>[[lab](https://github.com/fxyzbtc/fxyz.github.io/labels/lab)]</sub>
-1. 2025-05-03, [Rewrite and replacement does not in Adguardhome](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/25) <sub>[[lab](https://github.com/fxyzbtc/fxyz.github.io/labels/lab)]</sub>
-1. 2024-05-12, [shifting docker volume and networks](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/24) <sub>[[linux](https://github.com/fxyzbtc/fxyz.github.io/labels/linux)]</sub>
+1. 2025-05-25, [reinstall wsl ConfigureGpu/HCS/ERROR_PATH_NOT_FOUND](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/27) <sub>[[lab](https://github.com/fxyzbtc/fxyz.github.io/labels/lab), [linux](https://github.com/fxyzbtc/fxyz.github.io/labels/linux), [tech](https://github.com/fxyzbtc/fxyz.github.io/labels/tech)]</sub>
+1. 2025-05-03, [Cloudflare tunnel in a public  host](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/26) <sub>[[lab](https://github.com/fxyzbtc/fxyz.github.io/labels/lab), [tech](https://github.com/fxyzbtc/fxyz.github.io/labels/tech)]</sub>
+1. 2025-05-03, [Rewrite and replacement does not in Adguardhome](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/25) <sub>[[lab](https://github.com/fxyzbtc/fxyz.github.io/labels/lab), [tech](https://github.com/fxyzbtc/fxyz.github.io/labels/tech)]</sub>
+1. 2024-05-12, [shifting docker volume and networks](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/24) <sub>[[linux](https://github.com/fxyzbtc/fxyz.github.io/labels/linux), [tech](https://github.com/fxyzbtc/fxyz.github.io/labels/tech)]</sub>
 1. 2024-04-12, [qubes os cannot start installation](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/23)
 1. 2024-03-07, [test](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/20)
 1. 2024-03-03, [AI的演进路径](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/19) <sub>[[emm](https://github.com/fxyzbtc/fxyz.github.io/labels/emm)]</sub>
