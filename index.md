@@ -73,9 +73,9 @@
 1. 2023-12-23, [采集IELTS的口语topics](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/12) <sub>[[python](https://github.com/fxyzbtc/fxyz.github.io/labels/python), [ielts](https://github.com/fxyzbtc/fxyz.github.io/labels/ielts), [life](https://github.com/fxyzbtc/fxyz.github.io/labels/life)]</sub>
 1. 2023-12-20, [generate set of list of dict(s)](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/11) <sub>[[python](https://github.com/fxyzbtc/fxyz.github.io/labels/python), [tech](https://github.com/fxyzbtc/fxyz.github.io/labels/tech)]</sub>
 1. 2023-12-20, [gcc 编译.py为.exe](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/10) <sub>[[python](https://github.com/fxyzbtc/fxyz.github.io/labels/python), [tech](https://github.com/fxyzbtc/fxyz.github.io/labels/tech)]</sub>
-1. 2023-12-20, [PySide 将 logger 打印到 Text 组件中](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/9) <sub>[[python](https://github.com/fxyzbtc/fxyz.github.io/labels/python)]</sub>
-1. 2023-12-20, [Pyinstaller 打包 PySide/PyQt 程序运行时提示plguin错误](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/8) <sub>[[python](https://github.com/fxyzbtc/fxyz.github.io/labels/python)]</sub>
-1. 2023-12-20, [SimpleHTTPServer with upload](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/7) <sub>[[python](https://github.com/fxyzbtc/fxyz.github.io/labels/python)]</sub>
+1. 2023-12-20, [PySide 将 logger 打印到 Text 组件中](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/9) <sub>[[python](https://github.com/fxyzbtc/fxyz.github.io/labels/python), [tech](https://github.com/fxyzbtc/fxyz.github.io/labels/tech)]</sub>
+1. 2023-12-20, [Pyinstaller 打包 PySide/PyQt 程序运行时提示plguin错误](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/8) <sub>[[python](https://github.com/fxyzbtc/fxyz.github.io/labels/python), [tech](https://github.com/fxyzbtc/fxyz.github.io/labels/tech)]</sub>
+1. 2023-12-20, [SimpleHTTPServer with upload](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/7) <sub>[[python](https://github.com/fxyzbtc/fxyz.github.io/labels/python), [tech](https://github.com/fxyzbtc/fxyz.github.io/labels/tech)]</sub>
 1. 2023-12-20, [合并word中的表格](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/6) <sub>[[python](https://github.com/fxyzbtc/fxyz.github.io/labels/python)]</sub>
 1. 2023-12-17, [备份雪球记录](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/5) <sub>[[python](https://github.com/fxyzbtc/fxyz.github.io/labels/python)]</sub>
 1. 2023-12-17, [Jelly 硬解码设置](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/4) <sub>[[lab](https://github.com/fxyzbtc/fxyz.github.io/labels/lab)]</sub>
