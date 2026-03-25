@@ -1,3 +1,3 @@
 ## ielts
-* 2019-09-01, [2019-09-01-ielts-speaking-part-1.md](../posts/2019-09-01-ielts-speaking-part-1.md)
-* 2019-01-01, [2019-10-01-ielts-speaking-part-2.md](../posts/2019-10-01-ielts-speaking-part-2.md)
+* 2019-09-01, [IELTS Speaking Part 1 Practice](../pages/speaking1.html)
+* 2020-01-01, [IELTS Speaking Part 2&3 Practice](../pages/speaking23.html)
