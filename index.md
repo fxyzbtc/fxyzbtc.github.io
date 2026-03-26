@@ -1,7 +1,8 @@
-> Last Update: 2026-03-24
+> Last Update: 2026-03-26
 
 ## Issues
 
+1. 2026-03-26, [[Feature] Self-Evolution：行为模式自发现与自动化建议系统](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/144) <sub>[[tech](https://github.com/fxyzbtc/fxyz.github.io/labels/tech)]</sub>
 1. 2026-03-24, [[Security Research] 苹果企业证书隐私风险完整分析](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/142) <sub>[[tech](https://github.com/fxyzbtc/fxyz.github.io/labels/tech), [security](https://github.com/fxyzbtc/fxyz.github.io/labels/security), [risk](https://github.com/fxyzbtc/fxyz.github.io/labels/risk)]</sub>
 1. 2026-03-24, [[Security Research] 苹果企业证书隐私风险完整分析](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/141) <sub>[[tech](https://github.com/fxyzbtc/fxyz.github.io/labels/tech)]</sub>
 1. 2026-03-22, [AGI 烟雾迷漫，却又清晰无比 (优化版)](https://github.com/fxyzbtc/fxyzbtc.github.io/issues/140) <sub>[[tech](https://github.com/fxyzbtc/fxyz.github.io/labels/tech), [agi](https://github.com/fxyzbtc/fxyz.github.io/labels/agi), [token](https://github.com/fxyzbtc/fxyz.github.io/labels/token), [energy](https://github.com/fxyzbtc/fxyz.github.io/labels/energy)]</sub>
